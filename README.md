@@ -3,9 +3,10 @@
 
 
 - 🔭 I’m currently working at Castro Industrial an arcterure firm while i don't get emploied on programing develoopment.
-- 🌱 I’m currently learning Java
+- 🌱 I’m continously learning Java
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="20" height="20" />
-           and Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="20" height="20" /> on Cesar School.
+           , Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="20" height="20" /> on Cesar School and by my on
+              I'm trying to lear Lua<img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/language_lua_icon_138433.png"  width="20" height="20" /> by doing some macros for Firecast.
 - 👯 I’m looking to collaborate on ideas that change the word.
 - 🤔 I’m looking for help to get a cool job on programing.
 - 💬 Ask me about cool things and Ideas.
