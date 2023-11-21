@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help to get a cool job on programing.
 - 💬 Ask me about cool things and Ideas.
 - 😄 Pronouns: He.
-- ⚡ Fun fact: I like DM Dungeons and Dragons on wekends!
+- ⚡ Fun fact: I like DM Dungeons and Dragons, Word of Warcraft, Monster Hunter, TormentaRPG, Baldurs Gate 3, Over Whatch 2 on wekends!
 
 ### Contacts:
 
